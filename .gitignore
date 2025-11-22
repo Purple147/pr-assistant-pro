@@ -7,3 +7,8 @@ created_session.json
 .DS_Store
 *.sqlite
 node_modules/
+".env" 
+"data.json" 
+".env" 
+"*.session" 
+.env

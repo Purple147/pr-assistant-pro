@@ -1,0 +1,5 @@
+[33mf5049b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Remove tracked secrets; add .env to .gitignore
+[33m05558d9[m[33m ([m[1;31morigin/feat/add-action-check[m[33m)[m Merge pull request #1 from Purple147/feat/add-action-check
+[33m3098710[m Add quick PR-check action, Dockerfile and example env
+[33m2cb260f[m refactor : docs, extra
+[33m901f1c8[m refactor : env
