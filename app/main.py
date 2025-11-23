@@ -1,4 +1,4 @@
-ÿþ# app/main.py
+Ã¿Ã¾# app/main.py
 from fastapi import FastAPI
 
 app = FastAPI()
@@ -7,7 +7,7 @@ app = FastAPI()
 def health():
     return {"status": "ok"}
 
-# '¯1 '~ '5DÌ 1' /'1Ì/ H EÌ .H'GÌ/ import ©FÌ/:
+# 'Â¯1 '~ '5DÃŒ 1' /'1ÃŒ/ H EÃŒ .H'GÃŒ/ import Â©FÃŒ/:
 # try:
 #     from your_real_module import app as real_app
 #     app = real_app
