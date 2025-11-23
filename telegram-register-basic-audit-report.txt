@@ -1,0 +1,6 @@
+Audit report for telegram-register-basic
+Sun, Nov 23, 2025 10:48:53 AM
+
+=== quick grep for secrets ===
+=== detect-secrets scan ===
+Found potential secrets keys count: 0
